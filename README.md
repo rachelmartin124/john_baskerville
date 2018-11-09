@@ -1,13 +1,13 @@
-# john_baskerville
+# John Baskerville
 
 [Baskerville 1](https://rachelmartin124.github.io/john_baskerville/john_baskerville.html)
 
 [Baskerville 2](https://rachelmartin124.github.io/john_baskerville/john_baskerville2.html)
 
-# history_of_type 
+---
+
+# History of Type 
 
 
-[history of type](https://rachelmartin124.github.io/history_of_type/history.html)
-
-[history of type](https://rachelmartin124.github.io/history_of_type/history.html) 
+[History of Type](https://rachelmartin124.github.io/john_baskerville/history.html)
 
