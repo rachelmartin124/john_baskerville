@@ -6,4 +6,8 @@
 
 # history_of_type 
 
+
 [history of type](https://rachelmartin124.github.io/history_of_type/history.html)
+
+[history of type](https://rachelmartin124.github.io/history_of_type/history.html) 
+
